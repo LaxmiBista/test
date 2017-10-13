@@ -1,0 +1,234 @@
+
+.test {
+    color: #0000ff;
+}
+
+.calc_pos {
+    position: relative;
+    top: 120px;
+    left: 100px;
+    
+}
+
+
+
+.divBtn{
+    position: absolute;
+    top: 100px;
+    left: 10px;
+    width: 50px;
+    height: 50px;
+    background-color: #00ffff;
+    text-align: center;
+    line-height: 50px;
+}
+
+.divBtn2 {
+    position: absolute;
+    top: 100px;
+    left: 70px;
+    width: 50px;
+    height: 50px;
+    background-color: #00ffff;
+     text-align: center;
+    line-height: 50px;
+}
+
+.divBtn3 {
+    position: absolute;
+    top: 100px;
+    left: 130px;
+    width: 50px;
+    height: 50px;
+    background-color: #00ffff;
+     text-align: center;
+    line-height: 50px;
+}
+    .divBtn4 {
+    position: absolute;
+    top: 100px;
+    left: 190px;
+    width: 50px;
+    height: 50px;
+    background-color: #00ffff;
+     text-align: center;
+    line-height: 50px;
+}
+  .divBtn5 {
+    position: absolute;
+    top: 100px;
+    left: 250px;
+    width: 50px;
+    height: 50px;
+    background-color: #00ffff;
+     text-align: center;
+    line-height: 50px;
+}   
+ .divBtn6 {
+    position: absolute;
+    top: 100px;
+    left: 310px;
+    width: 50px;
+    height: 50px;
+    background-color: #0ff0ff;
+     text-align: center;
+    line-height: 50px;
+}
+ .divBtn7 {
+    position: absolute;
+    top: 100px;
+    left: 370px;
+    width: 50px;
+    height: 50px;
+    background-color: #0ff0ff;
+     text-align: center;
+    line-height: 50px;
+}
+ .divBtn8 {
+    position: absolute;
+    top: 100px;
+    left: 430px;
+    width: 50px;
+    height: 50px;
+    background-color: #0ff0ff;
+     text-align: center;
+    line-height: 50px;
+} 
+.divBtn9 {
+    position: absolute;
+    top: 160px;
+    left: 10px;
+    width: 50px;
+    height: 50px;
+    background-color: #0ff0ff;
+     text-align: center;
+    line-height: 50px;
+} 
+.divBtn10 {
+    position: absolute;
+    top: 160px;
+    left: 70px;
+    width: 50px;
+    height: 50px;
+    background-color: #0ff0ff;
+     text-align: center;
+    line-height: 50px;
+} .divBtn11 {
+    position: absolute;
+    top: 160px;
+    left: 130px;
+    width: 50px;
+    height: 50px;
+    background-color: #0ff0ff;
+     text-align: center;
+    line-height: 50px;
+}
+.divBtn12 {
+    position: absolute;
+    top: 160px;
+    left: 190px;
+    width: 50px;
+    height: 50px;
+    background-color: #0ff0ff;
+     text-align: center;
+    line-height: 50px;
+}.divBtn13 {
+    position: absolute;
+    top: 160px;
+    left: 250px;
+    width: 50px;
+    height: 50px;
+    background-color: #0ff0ff;
+     text-align: center;
+    line-height: 50px;
+}
+.divBtn14 {
+    position: absolute;
+    top: 160px;
+    left: 310px;
+    width: 50px;
+    height: 50px;
+    background-color: #0ff0ff;
+     text-align: center;
+    line-height: 50px;
+}
+.divBtn15 {
+    position: absolute;
+    top: 160px;
+    left: 370px;
+    width: 50px;
+    height: 50px;
+    background-color: #0ff0ff;
+     text-align: center;
+    line-height: 50px;
+}
+.divBtn16 {
+    position: absolute;
+    top: 160px;
+    left: 430px;
+    width: 50px;
+    height: 50px;
+    background-color: #0ff0ff;
+     text-align: center;
+    line-height: 50px;
+}
+.divBtn17 {
+    position: absolute;
+    top: 220px;
+    left: 10px;
+    width: 50px;
+    height: 50px;
+    background-color: #0ff0ff;
+     text-align: center;
+    line-height: 50px;
+}
+.divBtn18 {
+    position: absolute;
+    top: 220px;
+    left: 70px;
+    width: 50px;
+    height: 50px;
+    background-color: #0ff0ff;
+     text-align: center;
+    line-height: 50px;
+}
+.divBtn19 {
+    position: absolute;
+    top: 220px;
+    left: 130px;
+    width: 50px;
+    height: 50px;
+    background-color: #0ff0ff;
+     text-align: center;
+    line-height: 50px;
+}
+.divBtn20 {
+    position: absolute;
+    top: 220px;
+    left: 190px;
+    width: 50px;
+    height: 50px;
+    background-color: #0ff0ff;
+     text-align: center;
+    line-height: 50px;
+}
+.divBtn21 {
+    position: absolute;
+    top: 220px;
+    left: 250px;
+    width: 230px;
+    height: 50px;
+    background-color: #0ff0ff;
+     text-align: center;
+    line-height: 50px;
+}
+.BtnD1 {
+    position: absolute;
+    top: 40px;
+    left: 10px;
+    width: 470px;
+    height: 50px;
+    background-color: #8AAEBC;
+}
+
+

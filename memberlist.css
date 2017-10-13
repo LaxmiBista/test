@@ -1,0 +1,26 @@
+//=============================================================================
+// [file]test2.js
+// [memo]
+//=============================================================================
+(function () {
+
+     'use strict';
+
+    // =============================================
+    // EVENT:index.show
+    // =============================================
+    kintone.events.on('app.record.index.show', function(event) {
+        
+        alert('testthoge');
+
+    }); // end kintone.events.on [app.record.index.show]
+.display1 {
+    position: absolute;
+    top: 300px;
+    left: 100px;
+    width: 500px;
+    height: 200px;
+    background-color: #ffff00;
+     text-align: center;
+    line-height: 50px;
+}

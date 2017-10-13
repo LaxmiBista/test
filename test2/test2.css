@@ -1,0 +1,71 @@
+.view_name {
+    color: #0000ff;
+}
+
+.calc_area {
+    position: absolute;
+    top: 100px;
+    left: 50px;
+    width: 430px;
+    height: 160px;
+    background-color: #DDDDDD;
+    
+}
+
+.sign {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    width: 50px;
+    height: 50px;
+    background-color: #FF00ff;
+    
+}
+
+.param {
+    position: absolute;
+    top: 20px;
+    left: 80px;
+    width: 50px;
+    height: 50px;
+    background-color: #AAAAFF;
+    
+}
+
+.ope {
+    position: absolute;
+    top: 20px;
+    left: 150px;
+    width: 50px;
+    height: 50px;
+    background-color: #ccccdd;
+    
+}
+.calc {
+    position: absolute;
+    top: 20px;
+    left: 220px;
+    width: 100px;
+    height: 50px;
+    background-color: #11FF11;
+}
+
+.result {
+    position: absolute;
+    top: 20px;
+    left: 340px;
+    width: 70px;
+    height: 50px;
+    background-color: #ffff99;
+    
+}
+
+.clear{
+    position: absolute;
+    top: 90px;
+    left: 20px;
+    width: 110px;
+    height: 50px;
+    background-color: #11FF11;
+    
+}

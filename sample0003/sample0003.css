@@ -1,0 +1,17 @@
+.view_name {
+    color: #0000ff;
+}
+
+.base_pos {
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+
+#button {
+    width: 200px;
+    height: 200px;
+    background-color: #ff0000;
+    color: #0000ff;
+    
+}

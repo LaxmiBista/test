@@ -2,6 +2,7 @@
 
 $(function(){
     console.log("test");
+    console.log("maya");
     var divBtn1 = $('#btn1');
     var divBox1 = $('#box1');
     
